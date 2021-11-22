@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, I'm Helena Castro!
 
-<!--
-**lenaCastro92/lenaCastro92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as an Android Engineer
+- 📫 How to reach me: E-mail: lenaccastro92@gmail.com | Linkedin: https://linkedin.com/in/helenaccastro/
+- 😄 Pronouns: She - Her - They - Them
+- ⚡ Fun fact: I love cats
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/lenaCastro92">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenaCastro92&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaCastro92&layout=compact&langs_count=16&theme=midnight-purple" />
+</div>
+  
+##
+  
+<div>
+  <a href="https://linkedin.com/in/helenaccastro/"><img align="center" alt="" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
