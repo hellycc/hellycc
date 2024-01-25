@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an Android Engineer
 - 📫 How to reach me: E-mail: lenaccastro92@gmail.com | Linkedin: https://linkedin.com/in/helenaccastro/
-- 😄 Pronouns: She - Her - They - Them
+- 😄 Pronouns: She - Her
 - ⚡ Fun fact: I love cats
 
 <div>
