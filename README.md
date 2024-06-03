@@ -1,12 +1,12 @@
 ### Hello, I'm Helena Castro!
 
-- 🔭 I’m currently working as an Android Engineer
+- 🔭 I’m currently working as an Android Developer at Instituto de Pesquisas Eldorado
 - 📫 How to reach me: E-mail: lenaccastro92@gmail.com | Linkedin: https://linkedin.com/in/helenaccastro/
 - 😄 Pronouns: She - Her
 - ⚡ Fun fact: I love cats
 
 <div>
-  <a href="https://github.com/lenaCastro92">
+  <a href="https://github.com/hellycc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellycc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellycc&layout=compact&langs_count=16&theme=midnight-purple" />
 </div>
