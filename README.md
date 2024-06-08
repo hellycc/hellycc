@@ -1,9 +1,12 @@
 ### Hello, I'm Helena Castro!
 
-- 🔭 I’m currently working as an Android Developer at Instituto de Pesquisas Eldorado
+- 🔭 I’m currently working as an Android app developer at Eldorado Research Institute (@IPEldorado).
 - 📫 How to reach me: E-mail: lenaccastro92@gmail.com | Linkedin: https://linkedin.com/in/helenaccastro/
 - 😄 Pronouns: She - Her
-- ⚡ Fun fact: I love cats
+- ⚡ Fun facts: 
+  • I love cats and all sorts of felines (❤️ ω ❤️)
+  • I'm originally from Rio de Janeiro, but I've been living in Manaus, Amazonas, for about 1 year now
+  • When I was a young bookworm I wanted to be a writter, nowadays I write code, mostly Kotlin... sometimes Java (✿◡‿◡)
 
 <div>
   <a href="https://github.com/hellycc">
