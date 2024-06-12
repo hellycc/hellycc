@@ -1,4 +1,4 @@
-### Hello, I'm Helena Castro!
+### Hello, I'm Helena Castro! 🏳️‍🌈🌈🩷💜🪄💄👑🩰✨🧚‍♀️👸🦄
 
 - 🔭 I’m currently working as an Android app developer at Eldorado Research Institute (@IPEldorado).
 - 📫 How to reach me: E-mail: lenaccastro92@gmail.com | Linkedin: https://linkedin.com/in/helenaccastro/
@@ -20,3 +20,8 @@
 <div>
   <a href="https://linkedin.com/in/helenaccastro/"><img align="center" alt="" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+![TrixieMattelHeartGIF](https://github.com/hellycc/hellycc/assets/94810011/47a6764c-fa16-4b92-a98d-7516c301d865)
+
