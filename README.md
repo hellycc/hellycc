@@ -1,6 +1,6 @@
 ### Hello, I'm Helena Castro! 🏳️‍🌈🌈🩷💜🪄💄👑🩰✨🧚‍♀️👸🦄
 
-- 🔭 I’m currently working as an Android app developer at Eldorado Research Institute (@IPEldorado).
+- 🔭 I’m currently working as an Android app developer at CI&T (@ciandt).
 - 📫 How to reach me: E-mail: lenaccastro92@gmail.com | Linkedin: https://linkedin.com/in/helenaccastro/
 - 😄 Pronouns: She - Her
 - ⚡ Fun facts:
