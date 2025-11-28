@@ -5,15 +5,8 @@
 - 😄 Pronouns: She - Her
 - ⚡ Fun facts:
 - I love cats and all sorts of felines (❤️ ω ❤️)
-- I'm originally from Rio de Janeiro, but I've been living in Manaus, Amazonas, for about 1 year now
+- I'm originally from the city of Rio de Janeiro. I lived in Manaus, Amazonas, for about 1 year, now I'm proudly back to Rio!
 - When I was younger I wanted to be a writter. Nowadays I write code, mostly Kotlin... sometimes Java (✿◡‿◡)
-
-##
-
-<div>
-  <a href="https://github.com/hellycc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellycc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-</div>
   
 ##
   
